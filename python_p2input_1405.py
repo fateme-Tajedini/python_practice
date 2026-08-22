@@ -1,4 +1,4 @@
-# A program that takes three numbers as input and caculates the maximum and minimum among them.
+# A script that takes three numbers as input and caculates the maximum and minimum among them.
 
 
 number1 = int(input("Enter a number:"))
