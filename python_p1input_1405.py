@@ -1,4 +1,4 @@
-# A program that takes three numbers as input and displays their sum.
+# A script that takes three numbers as input and displays their sum.
 
 number1 = int(input("Enter a number:"))
 number2 = int(input("Enter a number:"))
