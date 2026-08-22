@@ -1,4 +1,4 @@
-# A program than prints even numbers from 2 to n.
+# A script that prints even numbers from 2 to n.
 
 n = int(input("Enter N: "))
 
