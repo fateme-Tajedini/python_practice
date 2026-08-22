@@ -1,4 +1,4 @@
-#  A program that prints numbers from 1 to n.
+#  A script that prints numbers from 1 to n.
 
 n = int(input("Enter N: "))
 
